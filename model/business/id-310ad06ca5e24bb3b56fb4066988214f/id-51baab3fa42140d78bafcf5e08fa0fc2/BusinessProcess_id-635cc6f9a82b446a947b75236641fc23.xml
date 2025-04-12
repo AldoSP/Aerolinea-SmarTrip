@@ -1,0 +1,8 @@
+<archimate:BusinessProcess
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interpreta intención y preferencias"
+    id="id-635cc6f9a82b446a947b75236641fc23"
+    documentation="NLP + Perfil">
+  <properties
+      key="NLP"/>
+</archimate:BusinessProcess>
