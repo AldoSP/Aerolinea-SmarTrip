@@ -1,4 +1,5 @@
 <archimate:BusinessProcess
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Carga de compensaciones a cuenta"
-    id="id-5a7fea346b964c91b0400e372eaf823d"/>
+    id="id-5a7fea346b964c91b0400e372eaf823d"
+    documentation="Sistema de Fidelización"/>
