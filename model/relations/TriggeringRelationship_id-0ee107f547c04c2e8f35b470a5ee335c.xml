@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prepara"
+    id="id-0ee107f547c04c2e8f35b470a5ee335c">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1498615b23134a6e8d2e465c9aa8cca3.xml#id-1498615b23134a6e8d2e465c9aa8cca3"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-a4cd6abc22214833aa38646bbbb945c0.xml#id-a4cd6abc22214833aa38646bbbb945c0"/>
+</archimate:TriggeringRelationship>

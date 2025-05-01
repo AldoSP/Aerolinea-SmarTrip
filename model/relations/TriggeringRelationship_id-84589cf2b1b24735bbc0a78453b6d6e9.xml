@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entrega a"
+    id="id-84589cf2b1b24735bbc0a78453b6d6e9">
+  <source
+      xsi:type="archimate:ApplicationInteraction"
+      href="ApplicationInteraction_id-0f2c4966f4ec4102a2b57554cbf24481.xml#id-0f2c4966f4ec4102a2b57554cbf24481"/>
+  <target
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-c920eba2fafa482e8b1737ecb47c8c5f.xml#id-c920eba2fafa482e8b1737ecb47c8c5f"/>
+</archimate:TriggeringRelationship>

@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Almacena"
+    id="id-7c4294873a0642df96d499c2b4b7f426"
+    documentation=" Almacena preferencias del cliente.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-635cc6f9a82b446a947b75236641fc23.xml#id-635cc6f9a82b446a947b75236641fc23"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-ef1f08cb4425438d94419bc3e20f0e55.xml#id-ef1f08cb4425438d94419bc3e20f0e55"/>
+</archimate:ServingRelationship>

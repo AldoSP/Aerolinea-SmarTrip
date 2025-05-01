@@ -1,0 +1,12 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Informa a"
+    id="id-5e8b2de467d74235b3166cd44944d35b">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6442996768254ac788d2251080d72012.xml#id-6442996768254ac788d2251080d72012"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-1498615b23134a6e8d2e465c9aa8cca3.xml#id-1498615b23134a6e8d2e465c9aa8cca3"/>
+</archimate:TriggeringRelationship>

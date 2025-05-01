@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Recibe de"
+    id="id-1351f4d4e41f42b7a1b252545a35fd9f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bc13b34aed3b4d958579e4d5b83d5948.xml#id-bc13b34aed3b4d958579e4d5b83d5948"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-73dbfe8e611743a2b5df48a78b4627c7.xml#id-73dbfe8e611743a2b5df48a78b4627c7"/>
+</archimate:ServingRelationship>

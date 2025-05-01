@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usa"
+    id="id-705e38ce887142f28d6baf090d3914d4"
+    documentation="Coordina transporte (APIs de Uber, etc.)">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-5fa7291b6b674b7391cb0a5395dd06f8.xml#id-5fa7291b6b674b7391cb0a5395dd06f8"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-07684204888145199bd6d84d8b04375d.xml#id-07684204888145199bd6d84d8b04375d"/>
+</archimate:ServingRelationship>

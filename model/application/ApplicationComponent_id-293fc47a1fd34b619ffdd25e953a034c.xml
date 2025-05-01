@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema de Análisis de Datos"
-    id="id-293fc47a1fd34b619ffdd25e953a034c"/>
+    id="id-293fc47a1fd34b619ffdd25e953a034c"
+    documentation="Simula costos y beneficios"/>

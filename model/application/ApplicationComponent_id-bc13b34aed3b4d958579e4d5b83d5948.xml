@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sistema de Reservas"
-    id="id-bc13b34aed3b4d958579e4d5b83d5948"/>
+    id="id-bc13b34aed3b4d958579e4d5b83d5948"
+    documentation="Búsqueda de opciones"/>

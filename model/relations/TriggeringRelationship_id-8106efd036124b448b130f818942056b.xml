@@ -1,0 +1,13 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usa"
+    id="id-8106efd036124b448b130f818942056b"
+    documentation="Envía checklist y recomendaciones.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-ee47fbd7724b46a89b0e4dbbc5eb3dfb.xml#id-ee47fbd7724b46a89b0e4dbbc5eb3dfb"/>
+  <target
+      xsi:type="archimate:ApplicationCollaboration"
+      href="ApplicationCollaboration_id-6682d52fb06b450b95bd6907bdd4cf1c.xml#id-6682d52fb06b450b95bd6907bdd4cf1c"/>
+</archimate:TriggeringRelationship>
