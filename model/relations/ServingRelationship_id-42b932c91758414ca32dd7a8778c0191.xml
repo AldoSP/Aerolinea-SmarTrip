@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-42b932c91758414ca32dd7a8778c0191"
+    documentation="Detecta incidente">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-483583f6546d408daec8b3b4343f1fa4.xml#id-483583f6546d408daec8b3b4343f1fa4"/>
+  <target
+      xsi:type="archimate:ApplicationService"
+      href="ApplicationService_id-8c21a3cc13bf48d6bdfbe803f7ad82fe.xml#id-8c21a3cc13bf48d6bdfbe803f7ad82fe"/>
+</archimate:ServingRelationship>

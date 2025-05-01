@@ -1,0 +1,13 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Usa"
+    id="id-e7c5d09e573a43ed8024deeaf0f7718b"
+    documentation="Analiza variables operativas.">
+  <source
+      xsi:type="archimate:BusinessProcess"
+      href="BusinessProcess_id-be48d54cc28e408ba3886d253e45c460.xml#id-be48d54cc28e408ba3886d253e45c460"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3c375a90d31641d6a1e2ada86fba71a1.xml#id-3c375a90d31641d6a1e2ada86fba71a1"/>
+</archimate:ServingRelationship>
