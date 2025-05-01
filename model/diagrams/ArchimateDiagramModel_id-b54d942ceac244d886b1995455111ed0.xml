@@ -1065,40 +1065,4 @@
         width="185"
         height="24"/>
   </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-b418ca4f9f864fd6b78a7b1d33d93a66">
-    <bounds
-        x="1956"
-        y="288"
-        width="8"
-        height="541"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_id-039f67ec57c641849efd28193a9bb699.xml#id-039f67ec57c641849efd28193a9bb699"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-422a4dad34a448e58d523e9673a0b87e">
-    <bounds
-        x="2676"
-        y="288"
-        width="8"
-        height="541"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_id-ae049f57c73d48f5915863cd23fe2961.xml#id-ae049f57c73d48f5915863cd23fe2961"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelArchimateObject"
-      id="id-6695e9bba7c04e49a2abc55e13748394">
-    <bounds
-        x="936"
-        y="288"
-        width="8"
-        height="541"/>
-    <archimateElement
-        xsi:type="archimate:TechnologyInterface"
-        href="TechnologyInterface_id-907edc162dd3425b92ca54f1134bd6f7.xml#id-907edc162dd3425b92ca54f1134bd6f7"/>
-  </children>
 </archimate:ArchimateDiagramModel>
