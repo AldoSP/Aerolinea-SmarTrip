@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Encriptación de Datos"
+    id="id-db7ab392b49c4d9bb2c28fb7d65dde25"
+    documentation="Protege información sensible (tarjetas de crédito, datos personales)."/>

@@ -1,0 +1,5 @@
+<archimate:TechnologyFunction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Monitorización en Tiempo Real"
+    id="id-995ef109921046eb960ee3a62ded05de"
+    documentation="Supervisa rendimiento de servidores y APIs (ej: Prometheus + Grafana)."/>

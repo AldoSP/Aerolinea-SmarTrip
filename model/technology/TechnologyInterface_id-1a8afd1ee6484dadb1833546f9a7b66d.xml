@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Service Mesh (Istio)"
+    id="id-1a8afd1ee6484dadb1833546f9a7b66d"
+    documentation="Controla tráfico entre microservicios (ej: reservas, pagos, notificaciones)."/>

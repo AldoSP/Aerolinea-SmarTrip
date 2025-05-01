@@ -1,0 +1,5 @@
+<archimate:Device
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sensores en Aviones"
+    id="id-c8633a9812104cb19687c51fe2bca9fd"
+    documentation="Monitorean temperatura, presión, y rendimiento del motor (vinculado a IA)."/>

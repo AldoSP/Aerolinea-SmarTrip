@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Motor de Recomendación (IA)"
+    id="id-a6ff5189ec044117b9bd0d4165fc5043"
+    documentation="Personaliza ofertas de viaje en tiempo real basadas en historial del cliente."/>

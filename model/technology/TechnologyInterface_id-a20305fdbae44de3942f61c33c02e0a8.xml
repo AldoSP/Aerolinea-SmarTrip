@@ -1,0 +1,5 @@
+<archimate:TechnologyInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Gestión de Identidad (IAM)"
+    id="id-a20305fdbae44de3942f61c33c02e0a8"
+    documentation="Autenticación multifactor para clientes y empleados (ej: Okta, Auth0)."/>

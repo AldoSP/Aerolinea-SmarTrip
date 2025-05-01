@@ -1,0 +1,5 @@
+<archimate:TechnologyCollaboration
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Orquestador de Microservicios"
+    id="id-17187ea104e940eb9caec61107eef809"
+    documentation="Gestiona servicios escalables (ej: Kubernetes en AWS/GCP)."/>
