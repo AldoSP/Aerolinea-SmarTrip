@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="RabbitMQ (copy)"
+    id="id-6ca05e1131404d3ab0c920e20aa7e016"
+    documentation="Es un sistema de mensajerias que permitira procesar la solicitud y informar a los interesados."/>

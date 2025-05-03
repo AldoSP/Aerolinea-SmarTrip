@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Sistema de Notificaciones (copy)"
+    id="id-377a5a2cd4394a63ade246aede267356"
+    documentation="Conecta el Sistema de Notificaciones con el CRM y el Portal."/>
