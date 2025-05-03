@@ -8,6 +8,6 @@
       xsi:type="archimate:BusinessProcess"
       href="BusinessProcess_id-ee47fbd7724b46a89b0e4dbbc5eb3dfb.xml#id-ee47fbd7724b46a89b0e4dbbc5eb3dfb"/>
   <target
-      xsi:type="archimate:ApplicationCollaboration"
-      href="ApplicationCollaboration_id-6682d52fb06b450b95bd6907bdd4cf1c.xml#id-6682d52fb06b450b95bd6907bdd4cf1c"/>
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-04f1872a95cd450ca23c72dfc178971f.xml#id-04f1872a95cd450ca23c72dfc178971f"/>
 </archimate:TriggeringRelationship>

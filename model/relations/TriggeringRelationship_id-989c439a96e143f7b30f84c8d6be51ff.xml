@@ -1,0 +1,11 @@
+<archimate:TriggeringRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    id="id-989c439a96e143f7b30f84c8d6be51ff">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6442996768254ac788d2251080d72012.xml#id-6442996768254ac788d2251080d72012"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-0e7dd7ec5e464e2bbfeebbbd2997f09f.xml#id-0e7dd7ec5e464e2bbfeebbbd2997f09f"/>
+</archimate:TriggeringRelationship>

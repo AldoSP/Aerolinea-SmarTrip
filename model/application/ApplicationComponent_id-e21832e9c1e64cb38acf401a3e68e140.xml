@@ -1,5 +1,5 @@
-<archimate:Equipment
+<archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Balizas IoT en Aeropuerto"
-    id="id-e8bb587c6bdf427fb6e1cc1c9bc4abf0"
+    id="id-e21832e9c1e64cb38acf401a3e68e140"
     documentation="Guían a pasajeros mediante la app (geolocalización en tiempo real)."/>

@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Interactua con"
+    id="id-8a1afc959ad34e5fba5515f797844cca">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bc13b34aed3b4d958579e4d5b83d5948.xml#id-bc13b34aed3b4d958579e4d5b83d5948"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-6de11e1f44094902a39b51cc18a689bf.xml#id-6de11e1f44094902a39b51cc18a689bf"/>
+</archimate:ServingRelationship>
